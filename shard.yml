@@ -1,0 +1,9 @@
+name: hncr
+version: 0.1.2
+
+description: |
+  A Hacker News API wrapper for Crystal
+
+crystal: 1.7.2
+
+license: MIT
